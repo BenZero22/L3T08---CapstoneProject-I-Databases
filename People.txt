@@ -1,0 +1,6 @@
+Client|Bon|Jovi|92939139|bon@email.com|221 Heavens Door
+Architect|Leonardo|Da Vinci|23818238|leonardo@email.com|IDK 1112
+Project Manager|Mack|Miller|23771237|mack@email.com|Hollywood
+Client|sadkc|sakc|213|sakc|dsasda
+Architect|gkf|fkg|kre|erk|ekr
+Project Manager|asck|ack|231k|cak|ck
