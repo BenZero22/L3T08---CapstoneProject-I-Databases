@@ -1,4 +1,4 @@
-# L2T7-CaptoneProject-II: Poised Project Manager
+# L3T8-CaptoneProject-I: Poised Project Management Systems
 
 ## Description
 This program was designed for a small structural engineering firm called "Poised" who ensure structural integrity of various buildings.
